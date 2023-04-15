@@ -1,0 +1,416 @@
+{
+  "project_info": {
+    "project_number": "743008089483",
+    "project_id": "rakyat-developer",
+    "storage_bucket": "rakyat-developer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:e2533bf66b806962512b8e",
+        "android_client_info": {
+          "package_name": "com.caracekpkb.pkbsamsatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:c580c28bdc3cdedb512b8e",
+        "android_client_info": {
+          "package_name": "com.caraceksaldo.emoneynfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:2d4fc2e80704141b512b8e",
+        "android_client_info": {
+          "package_name": "com.caralihatwa.wachatdihapus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:c9b916d4ca16e736512b8e",
+        "android_client_info": {
+          "package_name": "com.cekdptonline.cekdptpemilu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:dc6429ede854652f512b8e",
+        "android_client_info": {
+          "package_name": "com.jadwalsim.jadwalsimkeliling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:b55fb558f485cdb6512b8e",
+        "android_client_info": {
+          "package_name": "com.pendaftarancpns.caradaftarcpns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:31e5d7c30bf619ba512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.caracekbansos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:7d1a0a09afd772df512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.caraceknikktpkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:936c8a63b56c5bb3512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.caradaftarkartuprakerja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:7f64633857c2b764512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.cekjknkis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:9d1c33b49a845f1b512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.cektilangetle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:31fc5847da76d8e9512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.pinjolresmiojk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:da08503e89ff6992512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.saldojhtjamsostek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743008089483:android:d3021fa39ebe3db1512b8e",
+        "android_client_info": {
+          "package_name": "com.rakyatdev.twibbonframemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2TyRbNUb_JFY1g4blJ-b7jvj6WhxKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743008089483-27sn7gplunomc6i9drkogdktd24gg922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
